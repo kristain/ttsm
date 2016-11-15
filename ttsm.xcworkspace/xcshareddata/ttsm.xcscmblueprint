@@ -1,0 +1,29 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4D6A2C501645E2D39C2AD53FFE1AAF87639A7671" : 0,
+    "00D54598C1D4D22F07DF6876A6DEE7CC30302FC9" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "84BA164A-2345-49A3-9316-0780BC44F7E4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4D6A2C501645E2D39C2AD53FFE1AAF87639A7671" : "IM_Swift2\/",
+    "00D54598C1D4D22F07DF6876A6DEE7CC30302FC9" : "SmallDay\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ttsm",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ttsm.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/LilyHZ\/SmallDay.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "00D54598C1D4D22F07DF6876A6DEE7CC30302FC9"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yagamis\/IM_Swift2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4D6A2C501645E2D39C2AD53FFE1AAF87639A7671"
+    }
+  ]
+}
